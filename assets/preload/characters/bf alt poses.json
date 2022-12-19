@@ -13,47 +13,47 @@
 		},
 		{
 			"offsets": [
-				-8,
-				-6
+				5,
+				11
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "BF NOTE LEFT0"
+			"name": "ALT 2 BF LEFT0"
 		},
 		{
 			"offsets": [
-				-36,
-				-53
+				-39,
+				-43
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "BF NOTE DOWN0"
+			"name": "ALT 2 BF DOWN0"
 		},
 		{
 			"offsets": [
-				-47,
-				29
+				-55,
+				67
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "BF NOTE UP0"
+			"name": "ALT 2 BF UP0"
 		},
 		{
 			"offsets": [
-				-59,
-				-7
+				-31,
+				27
 			],
 			"loop": false,
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "BF NOTE RIGHT0"
+			"name": "ALT 2 BF RIGHT0"
 		},
 		{
 			"offsets": [
@@ -80,7 +80,7 @@
 		{
 			"offsets": [
 				-47,
-				30
+				29
 			],
 			"loop": false,
 			"fps": 24,
