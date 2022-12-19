@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Triple Trouble",
+			"BeastEXE",
+			[
+				60,
+				60,
+				60
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "Lyrics",
+	"weekCharacters": [
+		"consolex",
+		"bf",
+		"gf"
+	],
+	"storyName": "I Am God",
+	"weekName": "Sonic.exe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "weekexeencore",
+	"startUnlocked": true
+}
