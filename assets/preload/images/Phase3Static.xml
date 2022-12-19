@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Phase3Static.png">
+<SubTexture name="Phase3Static instance 0000" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0001" x="392" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0002" x="0" y="221" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0003" x="392" y="221" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0004" x="0" y="441" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0005" x="392" y="441" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0006" x="784" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0007" x="784" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0008" x="784" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0009" x="0" y="661" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0010" x="392" y="661" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0011" x="784" y="661" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0012" x="0" y="881" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0013" x="392" y="881" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0014" x="784" y="881" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0015" x="1176" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0016" x="1176" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0017" x="1176" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0018" x="1176" y="660" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0019" x="1176" y="880" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0020" x="0" y="1101" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0021" x="392" y="1101" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0022" x="784" y="1101" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0023" x="1176" y="1101" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0024" x="0" y="1321" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0025" x="392" y="1321" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0026" x="784" y="1321" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0027" x="1176" y="1321" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0028" x="1568" y="0" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0029" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0030" x="1568" y="220" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0031" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0032" x="1568" y="440" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0033" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0034" x="1568" y="660" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0035" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0036" x="1568" y="880" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0037" x="0" y="0" width="392" height="221" frameX="0" frameY="0" frameWidth="392" frameHeight="221" />
+<SubTexture name="Phase3Static instance 0038" x="1568" y="1100" width="392" height="220" frameX="0" frameY="-1" frameWidth="392" frameHeight="221" />
+</TextureAtlas>
